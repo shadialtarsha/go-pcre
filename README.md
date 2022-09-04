@@ -6,7 +6,7 @@ I created this repo for a specific use, which requires only the `compile` method
 Feel free to extend `pcre.go` to include more methods.
 
 ### Important Note
-All the credit goes to [Arsen6331](https://gitea.arsenm.dev/Arsen6331) for starting the project. This repo is a based on his [repo](https://gitea.arsenm.dev/Arsen6331/pcre).
+All the credits go to [Arsen6331](https://gitea.arsenm.dev/Arsen6331) for starting this project. This repo is a based on his [repo](https://gitea.arsenm.dev/Arsen6331/pcre).
 
 ### Supported Arch and OS:
 - linux/amd64
